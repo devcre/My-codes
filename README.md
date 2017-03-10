@@ -1,5 +1,5 @@
-# My-codes
+# My C codes
 
 I coded these codes.
 
-It's made of C, Java, Python languages or etc.
+It's made of C language.
